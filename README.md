@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @u3pKRaKEN
 - my setup:
-- 1. PC
--   1.1 AMD Ryzen 5 5600
--   1.2 RAM 16gb
--   1.3 RTX 4060 TI OC
--   1.4 SSD 256 and SSD 512gb
+-PC
+- 1.1 AMD Ryzen 5 5600
+- 1.2 RAM 16gb
+- 1.3 RTX 4060 TI OC
+- 1.4 SSD 256 and SSD 512gb
